@@ -1,0 +1,15 @@
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\bin\Debug\net6.0\GeekBrains-1.exe
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\bin\Debug\net6.0\GeekBrains-1.deps.json
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\bin\Debug\net6.0\GeekBrains-1.runtimeconfig.json
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\bin\Debug\net6.0\GeekBrains-1.dll
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\bin\Debug\net6.0\GeekBrains-1.pdb
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\GeekBrains-1.csproj.AssemblyReference.cache
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\GeekBrains-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\GeekBrains-1.AssemblyInfoInputs.cache
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\GeekBrains-1.AssemblyInfo.cs
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\GeekBrains-1.csproj.CoreCompileInputs.cache
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\GeekBrains-1.dll
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\refint\GeekBrains-1.dll
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\GeekBrains-1.pdb
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\GeekBrains-1.genruntimeconfig.cache
+C:\Users\Анна Васильевна\Desktop\GeekBrains-1\obj\Debug\net6.0\ref\GeekBrains-1.dll
